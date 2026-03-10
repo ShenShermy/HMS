@@ -226,19 +226,6 @@ scheduler = CosineAnnealingLR(T_max=epochs)
 optimizer = AdamW(lr=5e-4, weight_decay=0.05, betas=(0.9, 0.999))
 scheduler = LinearWarmup(10%) + CosineAnnealing
 ```
-
----
-
-## 👥 小组成员
-
-| 姓名 | 学号 | 分工 |
-|------|------|------|
-|      |      | EfficientNet 模型 |
-|      |      | TCN 模型 |
-|      |      | ViT 模型 |
-|      |      | 数据预处理 |
-|      |      | 报告撰写 |
-
 ---
 
 ## 📚 参考文献
