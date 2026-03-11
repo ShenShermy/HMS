@@ -5,6 +5,8 @@
 
 ---
 
+DataSet from kaggle --->  https://www.kaggle.com/competitions/hms-harmful-brain-activity-classification/data
+
 ## 📁 项目结构
 
 ```
