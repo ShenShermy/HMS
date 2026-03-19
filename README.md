@@ -138,8 +138,8 @@ python compare_models.py
 data/
 ├── train.csv
 └── train_spectrograms/
-    ├── 1000086677.npy
-    ├── 1000186671.npy
+    ├── 1
+    ├── 2
     └── ...
 ```
 
